@@ -1,2 +1,3 @@
 # DataMiningProject
-Clustering Analysis of 
+Clustering Analysis of a bikeshop in Davao City
+
